@@ -1,0 +1,32 @@
+[
+    {
+        "charClass": "Wizard",
+        "primaryStat": "Intelligence",
+        "description": "Spellcasters who gained their powers through study. This class is big-brain mode.",
+        "imageUrl": "https://www.dndbeyond.com/avatars/thumbnails/6/357/420/618/636272696881281556.png"
+    },
+    {
+        "charClass": "Rogue",
+        "primaryStat": "Dexterity",
+        "description": "Sneaky little devils. Backstab your enemies and loot dat treasure!",
+        "imageUrl": "https://www.dndbeyond.com/avatars/thumbnails/6/384/420/618/636272820319276620.png"
+    },
+    {
+        "charClass": "Barbarian",
+        "primaryStat": "Strength",
+        "description": "THIS CLASS PUNCH AND PUNCH HARD. DON't MAKE ME ANGY.",
+        "imageUrl": "https://www.dndbeyond.com/avatars/thumbnails/6/342/420/618/636272680339895080.png"
+    },
+    {
+        "charClass": "Bard",
+        "primaryStat": "Charisma",
+        "description": "This class will use the power of music to charm your enemy's pants off. Sometimes literally!",
+        "imageUrl": "https://www.dndbeyond.com/avatars/thumbnails/6/369/420/618/636272705936709430.png"
+    },
+    {
+        "charClass": "Paladin",
+        "primaryStat": "Constitution",
+        "description": "Light makes right. This is the bulky, wet-blanket of the group.",
+        "imageUrl": "https://www.dndbeyond.com/avatars/thumbnails/6/365/420/618/636272701937419552.png"
+    }
+]
